@@ -2,7 +2,7 @@
 
 This is a Netflix clone built with React.js using Vite for optimized builds. It replicates the Netflix interface and fetches movie data from TMDb API. User authentication is powered by Firebase.
 
-<img src="./public/Netiflix Clone.png" alt="netflix_mockup"/>
+<img src="./public/Netiflix Clone.png" alt="netflix_mockup" width="3236" height="3181" />
 
 ### Live Demo
 [Netflix Clone Demo](https://netflix-clone-seann21.vercel.app/)
